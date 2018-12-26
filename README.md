@@ -1,0 +1,2 @@
+# quizhoot
+Application that scrapes quizlet with a python script and then passes information in the form of json file into a java application that reorganizes the set into a question and answer format that works with kahoot, utilizing Google Natural Language in order to sort related answers into specific categories to make questions more challenging and genuine. Creation of a kahoot api was necessary in order to translate the question and answer data format into a real kahoot set.
